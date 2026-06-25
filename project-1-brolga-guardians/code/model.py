@@ -92,3 +92,14 @@ for t in T:
                     + outflow
                     + Z[s, r, t]
                 )
+
+S = S
+E = E
+R = R
+T = T
+X = X
+Y = Y
+Z = Z
+m = m
+d = d
+DISTANCE = DISTANCE
